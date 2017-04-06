@@ -274,10 +274,10 @@ textarea {
 }
 
 .th-btn-transparent {
-    color: #fff;
-    border-color: #fff;
+    color: #3b3939;
+    border-color: #3b3939;
     background: transparent;
-    border: 2px solid #fff;
+    border: 2px solid #3b3939;
 }
 
 .th-btn-transparent:focus,
@@ -589,7 +589,7 @@ main.main {
 }
 .header-big-screen .menu li a {
     font-size: 14px;
-    color: #fff;
+    color: #3b3939;
     padding: 12px 18px 12px;
     border-radius: 20px;
     line-height: 1;
@@ -785,7 +785,7 @@ main.main {
 =======================================================*/
 
 .banner {
-    background-image: url('../../img/banner_bg.jpg');
+    /*background-image: url('../../img/banner_bg.jpg');*/
     position: relative;
     min-height: 100%;
     padding-top: 200px;
@@ -798,7 +798,7 @@ main.main {
 
 .banner .heading {
     font-size: 60px;
-    color: #fff;
+    color: #3b3939;
     font-family: 'Roboto', sans-serif;
     line-height: 1.18;
     margin-bottom: 62px;
